@@ -1,0 +1,12 @@
+{
+  "name": "@dalongrong/types-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "p": "yarn publish --access public"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
